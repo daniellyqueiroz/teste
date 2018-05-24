@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/comprar"
+            android:icon="@drawable/ic_comprar"
+            android:title="@string/comprar" />
+        <item
+            android:id="@+id/reservar"
+            android:icon="@drawable/ic_historico"
+            android:title="@string/reservar" />
+        <item
+            android:id="@+id/cardapio"
+            android:icon="@drawable/ic_cardapio"
+            android:title="@string/cardapio" />
+        <item
+            android:id="@+id/sugestao"
+            android:icon="@drawable/ic_sugestao2"
+            android:title="@string/sugestao" />
+        <item
+            android:id="@+id/avaliar"
+            android:icon="@drawable/ic_avaliar"
+            android:title="@string/avaliar" />
+        <item
+            android:id="@+id/calorias"
+            android:icon="@drawable/ic_calcular"
+            android:title="@string/calcular" />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RU UFRPE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nome_aluno">Nome do Aluno</string>
+    <string name="email">aluno@ufrpe.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="configuracao">Configuração</string>
+    <string name="comprar">Comprar</string>
+    <string name="reservar">Reservar</string>
+    <string name="historico">Histórico</string>
+    <string name="cardapio">Cardápio</string>
+    <string name="sugestao">Sugestão</string>
+    <string name="avaliar">Avaliar Pratos</string>
+    <string name="calcular">Calcular Calorias</string>
+
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="acessoAva">Login com o AVA</string>
+
+</resources>
